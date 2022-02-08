@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,SAAS;CACpB;;ADDD,AAAA,CAAC,CAAA;EACG,KAAK,EAAE,GAAG;CACb",
+    "sources": [
+        "style.scss",
+        "border.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
